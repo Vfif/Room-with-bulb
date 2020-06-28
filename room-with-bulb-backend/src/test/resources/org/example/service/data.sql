@@ -1,0 +1,1 @@
+INSERT INTO room(id, name, country, bulb_on)	VALUES (1, 'new', 'Belarus', false);
